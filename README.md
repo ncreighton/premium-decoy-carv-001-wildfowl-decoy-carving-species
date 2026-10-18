@@ -1,0 +1,2 @@
+# premium-decoy-carv-001-wildfowl-decoy-carving-species
+Stop flipping through dog-eared field guides and losing notes on scrap paper. Your next carving project deserves a single source of truth for every species you tackle.  The Wildfowl Decoy Carving Species Reference is a Notion-powered database that replaces scattered notebooks and sticky notes. It gives you instant access to species-specific measure
